@@ -1,0 +1,3613 @@
+[
+  {
+    "rank": 1,
+    "repo": "mattpocock/skills",
+    "commit": "4ae2317ddb22b046e26455e4f9c9b3aaaf62212d",
+    "skills": [
+      {
+        "skill": "ask-matt",
+        "from": "skills/engineering/ask-matt",
+        "hook_stripped": false
+      },
+      {
+        "skill": "code-review",
+        "from": "skills/engineering/code-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "codebase-design",
+        "from": "skills/engineering/codebase-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "diagnosing-bugs",
+        "from": "skills/engineering/diagnosing-bugs",
+        "hook_stripped": false
+      },
+      {
+        "skill": "domain-modeling",
+        "from": "skills/engineering/domain-modeling",
+        "hook_stripped": false
+      },
+      {
+        "skill": "grill-with-docs",
+        "from": "skills/engineering/grill-with-docs",
+        "hook_stripped": false
+      },
+      {
+        "skill": "implement",
+        "from": "skills/engineering/implement",
+        "hook_stripped": false
+      },
+      {
+        "skill": "implement-spec",
+        "from": "skills/engineering/implement-spec",
+        "hook_stripped": false
+      },
+      {
+        "skill": "improve-codebase-architecture",
+        "from": "skills/engineering/improve-codebase-architecture",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pr",
+        "from": "skills/engineering/pr",
+        "hook_stripped": false
+      },
+      {
+        "skill": "prototype",
+        "from": "skills/engineering/prototype",
+        "hook_stripped": false
+      },
+      {
+        "skill": "research",
+        "from": "skills/engineering/research",
+        "hook_stripped": false
+      },
+      {
+        "skill": "retro",
+        "from": "skills/engineering/retro",
+        "hook_stripped": false
+      },
+      {
+        "skill": "setup-matt-pocock-skills",
+        "from": "skills/engineering/setup-matt-pocock-skills",
+        "hook_stripped": false
+      },
+      {
+        "skill": "tdd",
+        "from": "skills/engineering/tdd",
+        "hook_stripped": false
+      },
+      {
+        "skill": "to-spec",
+        "from": "skills/engineering/to-spec",
+        "hook_stripped": false
+      },
+      {
+        "skill": "to-tickets",
+        "from": "skills/engineering/to-tickets",
+        "hook_stripped": false
+      },
+      {
+        "skill": "triage",
+        "from": "skills/engineering/triage",
+        "hook_stripped": false
+      },
+      {
+        "skill": "wayfinder",
+        "from": "skills/engineering/wayfinder",
+        "hook_stripped": false
+      },
+      {
+        "skill": "wizard",
+        "from": "skills/engineering/wizard",
+        "hook_stripped": false
+      },
+      {
+        "skill": "git-guardrails-claude-code",
+        "from": "skills/misc/git-guardrails-claude-code",
+        "hook_stripped": false
+      },
+      {
+        "skill": "migrate-to-shoehorn",
+        "from": "skills/misc/migrate-to-shoehorn",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scaffold-exercises",
+        "from": "skills/misc/scaffold-exercises",
+        "hook_stripped": false
+      },
+      {
+        "skill": "setup-pre-commit",
+        "from": "skills/misc/setup-pre-commit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "grill-me",
+        "from": "skills/productivity/grill-me",
+        "hook_stripped": false
+      },
+      {
+        "skill": "grilling",
+        "from": "skills/productivity/grilling",
+        "hook_stripped": false
+      },
+      {
+        "skill": "handoff",
+        "from": "skills/productivity/handoff",
+        "hook_stripped": false
+      },
+      {
+        "skill": "teach",
+        "from": "skills/productivity/teach",
+        "hook_stripped": false
+      },
+      {
+        "skill": "to-questionnaire",
+        "from": "skills/productivity/to-questionnaire",
+        "hook_stripped": false
+      },
+      {
+        "skill": "wait-what",
+        "from": "skills/productivity/wait-what",
+        "hook_stripped": false
+      },
+      {
+        "skill": "writing-for-agents",
+        "from": "skills/productivity/writing-for-agents",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "repo": "obra/superpowers",
+    "commit": "22f0b463e7a5e579904dd6211a520321035526f7",
+    "skills": [
+      {
+        "skill": "brainstorming",
+        "from": "skills/brainstorming",
+        "hook_stripped": false
+      },
+      {
+        "skill": "diagnosing-superpowers",
+        "from": "skills/diagnosing-superpowers",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dispatching-parallel-agents",
+        "from": "skills/dispatching-parallel-agents",
+        "hook_stripped": false
+      },
+      {
+        "skill": "executing-plans",
+        "from": "skills/executing-plans",
+        "hook_stripped": false
+      },
+      {
+        "skill": "finishing-a-development-branch",
+        "from": "skills/finishing-a-development-branch",
+        "hook_stripped": false
+      },
+      {
+        "skill": "receiving-code-review",
+        "from": "skills/receiving-code-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "requesting-code-review",
+        "from": "skills/requesting-code-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "subagent-driven-development",
+        "from": "skills/subagent-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "systematic-debugging",
+        "from": "skills/systematic-debugging",
+        "hook_stripped": false
+      },
+      {
+        "skill": "test-driven-development",
+        "from": "skills/test-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "using-git-worktrees",
+        "from": "skills/using-git-worktrees",
+        "hook_stripped": false
+      },
+      {
+        "skill": "using-superpowers",
+        "from": "skills/using-superpowers",
+        "hook_stripped": false
+      },
+      {
+        "skill": "verification-before-completion",
+        "from": "skills/verification-before-completion",
+        "hook_stripped": false
+      },
+      {
+        "skill": "writing-plans",
+        "from": "skills/writing-plans",
+        "hook_stripped": false
+      },
+      {
+        "skill": "writing-skills",
+        "from": "skills/writing-skills",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "repo": "affaan-m/ECC",
+    "commit": "d2ef2680594f9a17526a6e1a2e18b3d242c5d17b",
+    "skills": [
+      {
+        "skill": "accessibility",
+        "from": "skills/accessibility",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-architecture-audit",
+        "from": "skills/agent-architecture-audit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-eval",
+        "from": "skills/agent-eval",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-harness-construction",
+        "from": "skills/agent-harness-construction",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-introspection-debugging",
+        "from": "skills/agent-introspection-debugging",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-payment-x402",
+        "from": "skills/agent-payment-x402",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-runtime-gateway-smoke-test",
+        "from": "skills/agent-runtime-gateway-smoke-test",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-security-hardening",
+        "from": "skills/agent-security-hardening",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-self-evaluation",
+        "from": "skills/agent-self-evaluation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agent-sort",
+        "from": "skills/agent-sort",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agentic-engineering",
+        "from": "skills/agentic-engineering",
+        "hook_stripped": false
+      },
+      {
+        "skill": "agentic-os",
+        "from": "skills/agentic-os",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ai-first-engineering",
+        "from": "skills/ai-first-engineering",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ai-regression-testing",
+        "from": "skills/ai-regression-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "android-clean-architecture",
+        "from": "skills/android-clean-architecture",
+        "hook_stripped": false
+      },
+      {
+        "skill": "angular-developer",
+        "from": "skills/angular-developer",
+        "hook_stripped": false
+      },
+      {
+        "skill": "api-connector-builder",
+        "from": "skills/api-connector-builder",
+        "hook_stripped": false
+      },
+      {
+        "skill": "api-design",
+        "from": "skills/api-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "architecture-decision-records",
+        "from": "skills/architecture-decision-records",
+        "hook_stripped": false
+      },
+      {
+        "skill": "article-writing",
+        "from": "skills/article-writing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "automation-audit-ops",
+        "from": "skills/automation-audit-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "autonomous-agent-harness",
+        "from": "skills/autonomous-agent-harness",
+        "hook_stripped": false
+      },
+      {
+        "skill": "autonomous-loops",
+        "from": "skills/autonomous-loops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "backend-patterns",
+        "from": "skills/backend-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "benchmark",
+        "from": "skills/benchmark",
+        "hook_stripped": false
+      },
+      {
+        "skill": "benchmark-methodology",
+        "from": "skills/benchmark-methodology",
+        "hook_stripped": false
+      },
+      {
+        "skill": "benchmark-optimization-loop",
+        "from": "skills/benchmark-optimization-loop",
+        "hook_stripped": false
+      },
+      {
+        "skill": "bengali-nlp",
+        "from": "skills/bengali-nlp",
+        "hook_stripped": false
+      },
+      {
+        "skill": "blender-motion-state-inspection",
+        "from": "skills/blender-motion-state-inspection",
+        "hook_stripped": false
+      },
+      {
+        "skill": "blueprint",
+        "from": "skills/blueprint",
+        "hook_stripped": false
+      },
+      {
+        "skill": "brand-discovery",
+        "from": "skills/brand-discovery",
+        "hook_stripped": false
+      },
+      {
+        "skill": "brand-voice",
+        "from": "skills/brand-voice",
+        "hook_stripped": false
+      },
+      {
+        "skill": "brownfield-retrospective",
+        "from": "skills/brownfield-retrospective",
+        "hook_stripped": false
+      },
+      {
+        "skill": "browser-qa",
+        "from": "skills/browser-qa",
+        "hook_stripped": false
+      },
+      {
+        "skill": "bun-runtime",
+        "from": "skills/bun-runtime",
+        "hook_stripped": false
+      },
+      {
+        "skill": "canary-watch",
+        "from": "skills/canary-watch",
+        "hook_stripped": false
+      },
+      {
+        "skill": "carrier-relationship-management",
+        "from": "skills/carrier-relationship-management",
+        "hook_stripped": false
+      },
+      {
+        "skill": "change-impact",
+        "from": "skills/change-impact",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cisco-ios-patterns",
+        "from": "skills/cisco-ios-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ck",
+        "from": "skills/ck",
+        "hook_stripped": false
+      },
+      {
+        "skill": "claude-devfleet",
+        "from": "skills/claude-devfleet",
+        "hook_stripped": false
+      },
+      {
+        "skill": "click-path-audit",
+        "from": "skills/click-path-audit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "clickhouse-io",
+        "from": "skills/clickhouse-io",
+        "hook_stripped": false
+      },
+      {
+        "skill": "code-tour",
+        "from": "skills/code-tour",
+        "hook_stripped": false
+      },
+      {
+        "skill": "codebase-onboarding",
+        "from": "skills/codebase-onboarding",
+        "hook_stripped": false
+      },
+      {
+        "skill": "codehealth-mcp",
+        "from": "skills/codehealth-mcp",
+        "hook_stripped": false
+      },
+      {
+        "skill": "coding-standards",
+        "from": "skills/coding-standards",
+        "hook_stripped": false
+      },
+      {
+        "skill": "competitive-platform-analysis",
+        "from": "skills/competitive-platform-analysis",
+        "hook_stripped": false
+      },
+      {
+        "skill": "competitive-report-structure",
+        "from": "skills/competitive-report-structure",
+        "hook_stripped": false
+      },
+      {
+        "skill": "compose-multiplatform-patterns",
+        "from": "skills/compose-multiplatform-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "config-gc",
+        "from": "skills/config-gc",
+        "hook_stripped": false
+      },
+      {
+        "skill": "configure-ecc",
+        "from": "skills/configure-ecc",
+        "hook_stripped": false
+      },
+      {
+        "skill": "connections-optimizer",
+        "from": "skills/connections-optimizer",
+        "hook_stripped": false
+      },
+      {
+        "skill": "content-engine",
+        "from": "skills/content-engine",
+        "hook_stripped": false
+      },
+      {
+        "skill": "content-hash-cache-pattern",
+        "from": "skills/content-hash-cache-pattern",
+        "hook_stripped": false
+      },
+      {
+        "skill": "context-and-decisions",
+        "from": "skills/context-and-decisions",
+        "hook_stripped": false
+      },
+      {
+        "skill": "context-budget",
+        "from": "skills/context-budget",
+        "hook_stripped": false
+      },
+      {
+        "skill": "continuous-agent-loop",
+        "from": "skills/continuous-agent-loop",
+        "hook_stripped": false
+      },
+      {
+        "skill": "continuous-learning",
+        "from": "skills/continuous-learning",
+        "hook_stripped": false
+      },
+      {
+        "skill": "continuous-learning-v2",
+        "from": "skills/continuous-learning-v2",
+        "hook_stripped": false
+      },
+      {
+        "skill": "contract-first",
+        "from": "skills/contract-first",
+        "hook_stripped": false
+      },
+      {
+        "skill": "conventional-commit-review",
+        "from": "skills/conventional-commit-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cost-aware-llm-pipeline",
+        "from": "skills/cost-aware-llm-pipeline",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cost-tracking",
+        "from": "skills/cost-tracking",
+        "hook_stripped": false
+      },
+      {
+        "skill": "council",
+        "from": "skills/council",
+        "hook_stripped": false
+      },
+      {
+        "skill": "council-multi-model",
+        "from": "skills/council-multi-model",
+        "hook_stripped": false
+      },
+      {
+        "skill": "counterparty-channel-discipline",
+        "from": "skills/counterparty-channel-discipline",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cpp-coding-standards",
+        "from": "skills/cpp-coding-standards",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cpp-testing",
+        "from": "skills/cpp-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "crosspost",
+        "from": "skills/crosspost",
+        "hook_stripped": false
+      },
+      {
+        "skill": "csharp-testing",
+        "from": "skills/csharp-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "customer-billing-ops",
+        "from": "skills/customer-billing-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "customs-trade-compliance",
+        "from": "skills/customs-trade-compliance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dart-flutter-patterns",
+        "from": "skills/dart-flutter-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dashboard-builder",
+        "from": "skills/dashboard-builder",
+        "hook_stripped": false
+      },
+      {
+        "skill": "data-scraper-agent",
+        "from": "skills/data-scraper-agent",
+        "hook_stripped": false
+      },
+      {
+        "skill": "data-throughput-accelerator",
+        "from": "skills/data-throughput-accelerator",
+        "hook_stripped": false
+      },
+      {
+        "skill": "database-migrations",
+        "from": "skills/database-migrations",
+        "hook_stripped": false
+      },
+      {
+        "skill": "deep-research",
+        "from": "skills/deep-research",
+        "hook_stripped": false
+      },
+      {
+        "skill": "deepseek-harness-setup",
+        "from": "skills/deepseek-harness-setup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "defi-amm-security",
+        "from": "skills/defi-amm-security",
+        "hook_stripped": false
+      },
+      {
+        "skill": "delivery-gate",
+        "from": "skills/delivery-gate",
+        "hook_stripped": false
+      },
+      {
+        "skill": "deployment-patterns",
+        "from": "skills/deployment-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "design-system",
+        "from": "skills/design-system",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dev-team",
+        "from": "skills/dev-team",
+        "hook_stripped": false
+      },
+      {
+        "skill": "django-celery",
+        "from": "skills/django-celery",
+        "hook_stripped": false
+      },
+      {
+        "skill": "django-patterns",
+        "from": "skills/django-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "django-security",
+        "from": "skills/django-security",
+        "hook_stripped": false
+      },
+      {
+        "skill": "django-tdd",
+        "from": "skills/django-tdd",
+        "hook_stripped": false
+      },
+      {
+        "skill": "django-verification",
+        "from": "skills/django-verification",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dmux-workflows",
+        "from": "skills/dmux-workflows",
+        "hook_stripped": false
+      },
+      {
+        "skill": "docker-patterns",
+        "from": "skills/docker-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "docs-governance",
+        "from": "skills/docs-governance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "documentation-lookup",
+        "from": "skills/documentation-lookup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dotnet-patterns",
+        "from": "skills/dotnet-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dynamic-workflow-mode",
+        "from": "skills/dynamic-workflow-mode",
+        "hook_stripped": false
+      },
+      {
+        "skill": "e2e-testing",
+        "from": "skills/e2e-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ecc-guide",
+        "from": "skills/ecc-guide",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ecc-recipes",
+        "from": "skills/ecc-recipes",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ecc-tools-cost-audit",
+        "from": "skills/ecc-tools-cost-audit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "email-ops",
+        "from": "skills/email-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "energy-procurement",
+        "from": "skills/energy-procurement",
+        "hook_stripped": false
+      },
+      {
+        "skill": "enterprise-agent-ops",
+        "from": "skills/enterprise-agent-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "error-handling",
+        "from": "skills/error-handling",
+        "hook_stripped": false
+      },
+      {
+        "skill": "esign-field-placement",
+        "from": "skills/esign-field-placement",
+        "hook_stripped": false
+      },
+      {
+        "skill": "eval-harness",
+        "from": "skills/eval-harness",
+        "hook_stripped": false
+      },
+      {
+        "skill": "evm-token-decimals",
+        "from": "skills/evm-token-decimals",
+        "hook_stripped": false
+      },
+      {
+        "skill": "exa-search",
+        "from": "skills/exa-search",
+        "hook_stripped": false
+      },
+      {
+        "skill": "fal-ai-media",
+        "from": "skills/fal-ai-media",
+        "hook_stripped": false
+      },
+      {
+        "skill": "fastapi-patterns",
+        "from": "skills/fastapi-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "finance-billing-ops",
+        "from": "skills/finance-billing-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "flox-environments",
+        "from": "skills/flox-environments",
+        "hook_stripped": false
+      },
+      {
+        "skill": "flutter-dart-code-review",
+        "from": "skills/flutter-dart-code-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "foundation-models-on-device",
+        "from": "skills/foundation-models-on-device",
+        "hook_stripped": false
+      },
+      {
+        "skill": "frontend-a11y",
+        "from": "skills/frontend-a11y",
+        "hook_stripped": false
+      },
+      {
+        "skill": "frontend-design-direction",
+        "from": "skills/frontend-design-direction",
+        "hook_stripped": false
+      },
+      {
+        "skill": "frontend-patterns",
+        "from": "skills/frontend-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "frontend-slides",
+        "from": "skills/frontend-slides",
+        "hook_stripped": false
+      },
+      {
+        "skill": "fsharp-testing",
+        "from": "skills/fsharp-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "gan-style-harness",
+        "from": "skills/gan-style-harness",
+        "hook_stripped": false
+      },
+      {
+        "skill": "gateguard",
+        "from": "skills/gateguard",
+        "hook_stripped": false
+      },
+      {
+        "skill": "generating-python-installer",
+        "from": "skills/generating-python-installer",
+        "hook_stripped": false
+      },
+      {
+        "skill": "git-workflow",
+        "from": "skills/git-workflow",
+        "hook_stripped": false
+      },
+      {
+        "skill": "github-ops",
+        "from": "skills/github-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "golang-patterns",
+        "from": "skills/golang-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "golang-testing",
+        "from": "skills/golang-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "google-workspace-ops",
+        "from": "skills/google-workspace-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "growth-log",
+        "from": "skills/growth-log",
+        "hook_stripped": false
+      },
+      {
+        "skill": "healthcare-cdss-patterns",
+        "from": "skills/healthcare-cdss-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "healthcare-emr-patterns",
+        "from": "skills/healthcare-emr-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "healthcare-eval-harness",
+        "from": "skills/healthcare-eval-harness",
+        "hook_stripped": false
+      },
+      {
+        "skill": "healthcare-phi-compliance",
+        "from": "skills/healthcare-phi-compliance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "hermes-imports",
+        "from": "skills/hermes-imports",
+        "hook_stripped": false
+      },
+      {
+        "skill": "hexagonal-architecture",
+        "from": "skills/hexagonal-architecture",
+        "hook_stripped": false
+      },
+      {
+        "skill": "hipaa-compliance",
+        "from": "skills/hipaa-compliance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "homelab-network-readiness",
+        "from": "skills/homelab-network-readiness",
+        "hook_stripped": false
+      },
+      {
+        "skill": "homelab-network-setup",
+        "from": "skills/homelab-network-setup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "homelab-pihole-dns",
+        "from": "skills/homelab-pihole-dns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "homelab-vlan-segmentation",
+        "from": "skills/homelab-vlan-segmentation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "homelab-wireguard-vpn",
+        "from": "skills/homelab-wireguard-vpn",
+        "hook_stripped": false
+      },
+      {
+        "skill": "hookify-rules",
+        "from": "skills/hookify-rules",
+        "hook_stripped": false
+      },
+      {
+        "skill": "i18n-sync",
+        "from": "skills/i18n-sync",
+        "hook_stripped": false
+      },
+      {
+        "skill": "inherit-legacy-style",
+        "from": "skills/inherit-legacy-style",
+        "hook_stripped": false
+      },
+      {
+        "skill": "intent-driven-development",
+        "from": "skills/intent-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "inventory-demand-planning",
+        "from": "skills/inventory-demand-planning",
+        "hook_stripped": false
+      },
+      {
+        "skill": "investor-materials",
+        "from": "skills/investor-materials",
+        "hook_stripped": false
+      },
+      {
+        "skill": "investor-outreach",
+        "from": "skills/investor-outreach",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ios-icon-gen",
+        "from": "skills/ios-icon-gen",
+        "hook_stripped": false
+      },
+      {
+        "skill": "issue-review",
+        "from": "skills/issue-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "iterative-retrieval",
+        "from": "skills/iterative-retrieval",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ito-baskets",
+        "from": "skills/ito-baskets",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ito-compute",
+        "from": "skills/ito-compute",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ito-inference",
+        "from": "skills/ito-inference",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ito-training",
+        "from": "skills/ito-training",
+        "hook_stripped": false
+      },
+      {
+        "skill": "java-coding-standards",
+        "from": "skills/java-coding-standards",
+        "hook_stripped": false
+      },
+      {
+        "skill": "jira-integration",
+        "from": "skills/jira-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "jpa-patterns",
+        "from": "skills/jpa-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "knowledge-ops",
+        "from": "skills/knowledge-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "kotlin-coroutines-flows",
+        "from": "skills/kotlin-coroutines-flows",
+        "hook_stripped": false
+      },
+      {
+        "skill": "kotlin-exposed-patterns",
+        "from": "skills/kotlin-exposed-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "kotlin-ktor-patterns",
+        "from": "skills/kotlin-ktor-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "kotlin-patterns",
+        "from": "skills/kotlin-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "kotlin-testing",
+        "from": "skills/kotlin-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "kubernetes-patterns",
+        "from": "skills/kubernetes-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "laravel-patterns",
+        "from": "skills/laravel-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "laravel-plugin-discovery",
+        "from": "skills/laravel-plugin-discovery",
+        "hook_stripped": false
+      },
+      {
+        "skill": "laravel-security",
+        "from": "skills/laravel-security",
+        "hook_stripped": false
+      },
+      {
+        "skill": "laravel-tdd",
+        "from": "skills/laravel-tdd",
+        "hook_stripped": false
+      },
+      {
+        "skill": "laravel-verification",
+        "from": "skills/laravel-verification",
+        "hook_stripped": false
+      },
+      {
+        "skill": "latency-critical-systems",
+        "from": "skills/latency-critical-systems",
+        "hook_stripped": false
+      },
+      {
+        "skill": "lead-intelligence",
+        "from": "skills/lead-intelligence",
+        "hook_stripped": false
+      },
+      {
+        "skill": "liquid-glass-design",
+        "from": "skills/liquid-glass-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "living-docs-governance",
+        "from": "skills/living-docs-governance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "llm-trading-agent-security",
+        "from": "skills/llm-trading-agent-security",
+        "hook_stripped": false
+      },
+      {
+        "skill": "logistics-exception-management",
+        "from": "skills/logistics-exception-management",
+        "hook_stripped": false
+      },
+      {
+        "skill": "loop-design-check",
+        "from": "skills/loop-design-check",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mailtrap-email-integration",
+        "from": "skills/mailtrap-email-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "make-interfaces-feel-better",
+        "from": "skills/make-interfaces-feel-better",
+        "hook_stripped": false
+      },
+      {
+        "skill": "manim-video",
+        "from": "skills/manim-video",
+        "hook_stripped": false
+      },
+      {
+        "skill": "market-research",
+        "from": "skills/market-research",
+        "hook_stripped": false
+      },
+      {
+        "skill": "marketing-campaign",
+        "from": "skills/marketing-campaign",
+        "hook_stripped": false
+      },
+      {
+        "skill": "master-agreement-generator",
+        "from": "skills/master-agreement-generator",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mcp-dependency-review",
+        "from": "skills/mcp-dependency-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mcp-server-patterns",
+        "from": "skills/mcp-server-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "messages-ops",
+        "from": "skills/messages-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ml-adoption-playbook",
+        "from": "skills/ml-adoption-playbook",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mle-workflow",
+        "from": "skills/mle-workflow",
+        "hook_stripped": false
+      },
+      {
+        "skill": "module-governance",
+        "from": "skills/module-governance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "module-regression",
+        "from": "skills/module-regression",
+        "hook_stripped": false
+      },
+      {
+        "skill": "motion-advanced",
+        "from": "skills/motion-advanced",
+        "hook_stripped": false
+      },
+      {
+        "skill": "motion-foundations",
+        "from": "skills/motion-foundations",
+        "hook_stripped": false
+      },
+      {
+        "skill": "motion-patterns",
+        "from": "skills/motion-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mybatis-patterns",
+        "from": "skills/mybatis-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mysql-patterns",
+        "from": "skills/mysql-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nanoclaw-repl",
+        "from": "skills/nanoclaw-repl",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nasiko-control-plane",
+        "from": "skills/nasiko-control-plane",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nestjs-patterns",
+        "from": "skills/nestjs-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "netmiko-ssh-automation",
+        "from": "skills/netmiko-ssh-automation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "network-bgp-diagnostics",
+        "from": "skills/network-bgp-diagnostics",
+        "hook_stripped": false
+      },
+      {
+        "skill": "network-config-validation",
+        "from": "skills/network-config-validation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "network-interface-health",
+        "from": "skills/network-interface-health",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nextjs-turbopack",
+        "from": "skills/nextjs-turbopack",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nodejs-keccak256",
+        "from": "skills/nodejs-keccak256",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nutrient-document-processing",
+        "from": "skills/nutrient-document-processing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nuxt4-patterns",
+        "from": "skills/nuxt4-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "openclaw-persona-forge",
+        "from": "skills/openclaw-persona-forge",
+        "hook_stripped": false
+      },
+      {
+        "skill": "opensource-pipeline",
+        "from": "skills/opensource-pipeline",
+        "hook_stripped": false
+      },
+      {
+        "skill": "operator-approval-loop",
+        "from": "skills/operator-approval-loop",
+        "hook_stripped": false
+      },
+      {
+        "skill": "orch-add-feature",
+        "from": "skills/orch-add-feature",
+        "hook_stripped": false
+      },
+      {
+        "skill": "orch-build-mvp",
+        "from": "skills/orch-build-mvp",
+        "hook_stripped": false
+      },
+      {
+        "skill": "orch-change-feature",
+        "from": "skills/orch-change-feature",
+        "hook_stripped": false
+      },
+      {
+        "skill": "orch-fix-defect",
+        "from": "skills/orch-fix-defect",
+        "hook_stripped": false
+      },
+      {
+        "skill": "orch-pipeline",
+        "from": "skills/orch-pipeline",
+        "hook_stripped": false
+      },
+      {
+        "skill": "orch-refine-code",
+        "from": "skills/orch-refine-code",
+        "hook_stripped": false
+      },
+      {
+        "skill": "osint-investigation",
+        "from": "skills/osint-investigation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "parallel-execution-optimizer",
+        "from": "skills/parallel-execution-optimizer",
+        "hook_stripped": false
+      },
+      {
+        "skill": "perl-patterns",
+        "from": "skills/perl-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "perl-security",
+        "from": "skills/perl-security",
+        "hook_stripped": false
+      },
+      {
+        "skill": "perl-testing",
+        "from": "skills/perl-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "plan-canvas",
+        "from": "skills/plan-canvas",
+        "hook_stripped": false
+      },
+      {
+        "skill": "plan-orchestrate",
+        "from": "skills/plan-orchestrate",
+        "hook_stripped": false
+      },
+      {
+        "skill": "plankton-code-quality",
+        "from": "skills/plankton-code-quality",
+        "hook_stripped": false
+      },
+      {
+        "skill": "postgres-patterns",
+        "from": "skills/postgres-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "prediction-market-oracle-research",
+        "from": "skills/prediction-market-oracle-research",
+        "hook_stripped": false
+      },
+      {
+        "skill": "prediction-market-risk-review",
+        "from": "skills/prediction-market-risk-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "prisma-patterns",
+        "from": "skills/prisma-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "product-capability",
+        "from": "skills/product-capability",
+        "hook_stripped": false
+      },
+      {
+        "skill": "product-lens",
+        "from": "skills/product-lens",
+        "hook_stripped": false
+      },
+      {
+        "skill": "production-audit",
+        "from": "skills/production-audit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "production-scheduling",
+        "from": "skills/production-scheduling",
+        "hook_stripped": false
+      },
+      {
+        "skill": "project-flow-ops",
+        "from": "skills/project-flow-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "prompt-caching-strategy",
+        "from": "skills/prompt-caching-strategy",
+        "hook_stripped": false
+      },
+      {
+        "skill": "prompt-optimizer",
+        "from": "skills/prompt-optimizer",
+        "hook_stripped": false
+      },
+      {
+        "skill": "python-patterns",
+        "from": "skills/python-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "python-testing",
+        "from": "skills/python-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pytorch-patterns",
+        "from": "skills/pytorch-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "quality-nonconformance",
+        "from": "skills/quality-nonconformance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "quarkus-patterns",
+        "from": "skills/quarkus-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "quarkus-security",
+        "from": "skills/quarkus-security",
+        "hook_stripped": false
+      },
+      {
+        "skill": "quarkus-tdd",
+        "from": "skills/quarkus-tdd",
+        "hook_stripped": false
+      },
+      {
+        "skill": "quarkus-verification",
+        "from": "skills/quarkus-verification",
+        "hook_stripped": false
+      },
+      {
+        "skill": "rails-patterns",
+        "from": "skills/rails-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ralphinho-rfc-pipeline",
+        "from": "skills/ralphinho-rfc-pipeline",
+        "hook_stripped": false
+      },
+      {
+        "skill": "react-native-patterns",
+        "from": "skills/react-native-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "react-patterns",
+        "from": "skills/react-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "react-performance",
+        "from": "skills/react-performance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "react-testing",
+        "from": "skills/react-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "recsys-pipeline-architect",
+        "from": "skills/recsys-pipeline-architect",
+        "hook_stripped": false
+      },
+      {
+        "skill": "recursive-decision-ledger",
+        "from": "skills/recursive-decision-ledger",
+        "hook_stripped": false
+      },
+      {
+        "skill": "redis-patterns",
+        "from": "skills/redis-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "regex-vs-llm-structured-text",
+        "from": "skills/regex-vs-llm-structured-text",
+        "hook_stripped": false
+      },
+      {
+        "skill": "remotion-video-creation",
+        "from": "skills/remotion-video-creation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "repo-scan",
+        "from": "skills/repo-scan",
+        "hook_stripped": false
+      },
+      {
+        "skill": "research-ops",
+        "from": "skills/research-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "returns-reverse-logistics",
+        "from": "skills/returns-reverse-logistics",
+        "hook_stripped": false
+      },
+      {
+        "skill": "rules-distill",
+        "from": "skills/rules-distill",
+        "hook_stripped": false
+      },
+      {
+        "skill": "rust-patterns",
+        "from": "skills/rust-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "rust-testing",
+        "from": "skills/rust-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "safety-guard",
+        "from": "skills/safety-guard",
+        "hook_stripped": false
+      },
+      {
+        "skill": "santa-method",
+        "from": "skills/santa-method",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-db-pubmed-database",
+        "from": "skills/scientific-db-pubmed-database",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-db-uspto-database",
+        "from": "skills/scientific-db-uspto-database",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-pkg-gget",
+        "from": "skills/scientific-pkg-gget",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-thinking-literature-review",
+        "from": "skills/scientific-thinking-literature-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-thinking-scholar-evaluation",
+        "from": "skills/scientific-thinking-scholar-evaluation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "search-first",
+        "from": "skills/search-first",
+        "hook_stripped": false
+      },
+      {
+        "skill": "security-bounty-hunter",
+        "from": "skills/security-bounty-hunter",
+        "hook_stripped": false
+      },
+      {
+        "skill": "security-review",
+        "from": "skills/security-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "security-scan",
+        "from": "skills/security-scan",
+        "hook_stripped": false
+      },
+      {
+        "skill": "seo",
+        "from": "skills/seo",
+        "hook_stripped": false
+      },
+      {
+        "skill": "skill-comply",
+        "from": "skills/skill-comply",
+        "hook_stripped": false
+      },
+      {
+        "skill": "skill-host-compat",
+        "from": "skills/skill-host-compat",
+        "hook_stripped": false
+      },
+      {
+        "skill": "skill-scout",
+        "from": "skills/skill-scout",
+        "hook_stripped": false
+      },
+      {
+        "skill": "skill-stocktake",
+        "from": "skills/skill-stocktake",
+        "hook_stripped": false
+      },
+      {
+        "skill": "social-graph-ranker",
+        "from": "skills/social-graph-ranker",
+        "hook_stripped": false
+      },
+      {
+        "skill": "social-publisher",
+        "from": "skills/social-publisher",
+        "hook_stripped": false
+      },
+      {
+        "skill": "springboot-patterns",
+        "from": "skills/springboot-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "springboot-security",
+        "from": "skills/springboot-security",
+        "hook_stripped": false
+      },
+      {
+        "skill": "springboot-tdd",
+        "from": "skills/springboot-tdd",
+        "hook_stripped": false
+      },
+      {
+        "skill": "springboot-verification",
+        "from": "skills/springboot-verification",
+        "hook_stripped": false
+      },
+      {
+        "skill": "story-lifecycle",
+        "from": "skills/story-lifecycle",
+        "hook_stripped": false
+      },
+      {
+        "skill": "strategic-compact",
+        "from": "skills/strategic-compact",
+        "hook_stripped": false
+      },
+      {
+        "skill": "swift-actor-persistence",
+        "from": "skills/swift-actor-persistence",
+        "hook_stripped": false
+      },
+      {
+        "skill": "swift-concurrency-6-2",
+        "from": "skills/swift-concurrency-6-2",
+        "hook_stripped": false
+      },
+      {
+        "skill": "swift-protocol-di-testing",
+        "from": "skills/swift-protocol-di-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "swiftui-patterns",
+        "from": "skills/swiftui-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "taste",
+        "from": "skills/taste",
+        "hook_stripped": false
+      },
+      {
+        "skill": "taste-application",
+        "from": "skills/taste-application",
+        "hook_stripped": false
+      },
+      {
+        "skill": "taste-distillation",
+        "from": "skills/taste-distillation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "tasteforge-video",
+        "from": "skills/tasteforge-video",
+        "hook_stripped": false
+      },
+      {
+        "skill": "tdd-workflow",
+        "from": "skills/tdd-workflow",
+        "hook_stripped": false
+      },
+      {
+        "skill": "team-agent-orchestration",
+        "from": "skills/team-agent-orchestration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "team-builder",
+        "from": "skills/team-builder",
+        "hook_stripped": false
+      },
+      {
+        "skill": "terminal-opener",
+        "from": "skills/terminal-opener",
+        "hook_stripped": false
+      },
+      {
+        "skill": "terminal-ops",
+        "from": "skills/terminal-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "test-collaboration",
+        "from": "skills/test-collaboration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "tinystruct-patterns",
+        "from": "skills/tinystruct-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "token-budget-advisor",
+        "from": "skills/token-budget-advisor",
+        "hook_stripped": false
+      },
+      {
+        "skill": "token-card",
+        "from": "skills/token-card",
+        "hook_stripped": false
+      },
+      {
+        "skill": "typescript-patterns",
+        "from": "skills/typescript-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ui-demo",
+        "from": "skills/ui-demo",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ui-to-vue",
+        "from": "skills/ui-to-vue",
+        "hook_stripped": false
+      },
+      {
+        "skill": "uncloud",
+        "from": "skills/uncloud",
+        "hook_stripped": false
+      },
+      {
+        "skill": "unified-memory",
+        "from": "skills/unified-memory",
+        "hook_stripped": false
+      },
+      {
+        "skill": "unified-notifications-ops",
+        "from": "skills/unified-notifications-ops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "verification-loop",
+        "from": "skills/verification-loop",
+        "hook_stripped": false
+      },
+      {
+        "skill": "video-editing",
+        "from": "skills/video-editing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "videodb",
+        "from": "skills/videodb",
+        "hook_stripped": false
+      },
+      {
+        "skill": "visa-doc-translate",
+        "from": "skills/visa-doc-translate",
+        "hook_stripped": false
+      },
+      {
+        "skill": "vite-patterns",
+        "from": "skills/vite-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "vue-patterns",
+        "from": "skills/vue-patterns",
+        "hook_stripped": false
+      },
+      {
+        "skill": "windows-desktop-e2e",
+        "from": "skills/windows-desktop-e2e",
+        "hook_stripped": false
+      },
+      {
+        "skill": "workspace-surface-audit",
+        "from": "skills/workspace-surface-audit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "x-api",
+        "from": "skills/x-api",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "repo": "multica-ai/andrej-karpathy-skills",
+    "commit": "2c606141936f1eeef17fa3043a72095b4765b9c2",
+    "skills": [
+      {
+        "skill": "karpathy-guidelines",
+        "from": "skills/karpathy-guidelines",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "repo": "anthropics/skills",
+    "commit": "2c5958ecac7cee2b583967a2c4981d0f4a75c579",
+    "skills": [
+      {
+        "skill": "academy-guide",
+        "from": "skills/academy-guide",
+        "hook_stripped": false
+      },
+      {
+        "skill": "algorithmic-art",
+        "from": "skills/algorithmic-art",
+        "hook_stripped": false
+      },
+      {
+        "skill": "brand-guidelines",
+        "from": "skills/brand-guidelines",
+        "hook_stripped": false
+      },
+      {
+        "skill": "canvas-design",
+        "from": "skills/canvas-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "claude-api",
+        "from": "skills/claude-api",
+        "hook_stripped": false
+      },
+      {
+        "skill": "discernment-nudge",
+        "from": "skills/discernment-nudge",
+        "hook_stripped": false
+      },
+      {
+        "skill": "docx",
+        "from": "skills/docx",
+        "hook_stripped": false
+      },
+      {
+        "skill": "frontend-design",
+        "from": "skills/frontend-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "internal-comms",
+        "from": "skills/internal-comms",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mcp-builder",
+        "from": "skills/mcp-builder",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pdf",
+        "from": "skills/pdf",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pptx",
+        "from": "skills/pptx",
+        "hook_stripped": false
+      },
+      {
+        "skill": "skill-creator",
+        "from": "skills/skill-creator",
+        "hook_stripped": false
+      },
+      {
+        "skill": "slack-gif-creator",
+        "from": "skills/slack-gif-creator",
+        "hook_stripped": false
+      },
+      {
+        "skill": "theme-factory",
+        "from": "skills/theme-factory",
+        "hook_stripped": false
+      },
+      {
+        "skill": "web-artifacts-builder",
+        "from": "skills/web-artifacts-builder",
+        "hook_stripped": false
+      },
+      {
+        "skill": "webapp-testing",
+        "from": "skills/webapp-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "xlsx",
+        "from": "skills/xlsx",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "repo": "DietrichGebert/ponytail",
+    "commit": "96608e078b2d5ea607c5c3b8b5a54d1c1fba6846",
+    "skills": [
+      {
+        "skill": "ponytail",
+        "from": "skills/ponytail",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ponytail-audit",
+        "from": "skills/ponytail-audit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ponytail-debt",
+        "from": "skills/ponytail-debt",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ponytail-gain",
+        "from": "skills/ponytail-gain",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ponytail-help",
+        "from": "skills/ponytail-help",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ponytail-review",
+        "from": "skills/ponytail-review",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "commit": "4f2dbb67e64969a9a30ab00742f2d55d66ddec2b",
+    "skills": [
+      {
+        "skill": "banner-design",
+        "from": ".claude/skills/banner-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "brand",
+        "from": ".claude/skills/brand",
+        "hook_stripped": false
+      },
+      {
+        "skill": "design",
+        "from": ".claude/skills/design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "uiux-design-system",
+        "from": ".claude/skills/design-system",
+        "hook_stripped": false
+      },
+      {
+        "skill": "slides",
+        "from": ".claude/skills/slides",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ui-styling",
+        "from": ".claude/skills/ui-styling",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ui-ux-pro-max",
+        "from": ".claude/skills/ui-ux-pro-max",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "repo": "JuliusBrussee/caveman",
+    "commit": "3dc497a7f858c774d6e15b25e8c6120ef3a0eda8",
+    "skills": [
+      {
+        "skill": "cavecrew",
+        "from": "skills/cavecrew",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman",
+        "from": "skills/caveman",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-commit",
+        "from": "skills/caveman-commit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-compress",
+        "from": "skills/caveman-compress",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-discover",
+        "from": "skills/caveman-discover",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-evidence-review",
+        "from": "skills/caveman-evidence-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-explore",
+        "from": "skills/caveman-explore",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-help",
+        "from": "skills/caveman-help",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-learn",
+        "from": "skills/caveman-learn",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-manage",
+        "from": "skills/caveman-manage",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-optimize",
+        "from": "skills/caveman-optimize",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-review",
+        "from": "skills/caveman-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-setup",
+        "from": "skills/caveman-setup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "caveman-stats",
+        "from": "skills/caveman-stats",
+        "hook_stripped": false
+      },
+      {
+        "skill": "investigate-first",
+        "from": "skills/investigate-first",
+        "hook_stripped": false
+      },
+      {
+        "skill": "lean-build",
+        "from": "skills/lean-build",
+        "hook_stripped": false
+      },
+      {
+        "skill": "megacave",
+        "from": "skills/megacave",
+        "hook_stripped": false
+      },
+      {
+        "skill": "migration",
+        "from": "skills/migration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "safe-refactor",
+        "from": "skills/safe-refactor",
+        "hook_stripped": false
+      },
+      {
+        "skill": "surgical-patch",
+        "from": "skills/surgical-patch",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ultracave",
+        "from": "skills/ultracave",
+        "hook_stripped": false
+      },
+      {
+        "skill": "verify-and-stop",
+        "from": "skills/verify-and-stop",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "repo": "addyosmani/agent-skills",
+    "commit": "301b02b12bff98e4688e6984af6556802322bbde",
+    "skills": [
+      {
+        "skill": "api-and-interface-design",
+        "from": "skills/api-and-interface-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "browser-testing-with-devtools",
+        "from": "skills/browser-testing-with-devtools",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ci-cd-and-automation",
+        "from": "skills/ci-cd-and-automation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "code-review-and-quality",
+        "from": "skills/code-review-and-quality",
+        "hook_stripped": false
+      },
+      {
+        "skill": "code-simplification",
+        "from": "skills/code-simplification",
+        "hook_stripped": false
+      },
+      {
+        "skill": "constraint-driven-development",
+        "from": "skills/constraint-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "context-engineering",
+        "from": "skills/context-engineering",
+        "hook_stripped": false
+      },
+      {
+        "skill": "debugging-and-error-recovery",
+        "from": "skills/debugging-and-error-recovery",
+        "hook_stripped": false
+      },
+      {
+        "skill": "deprecation-and-migration",
+        "from": "skills/deprecation-and-migration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "documentation-and-adrs",
+        "from": "skills/documentation-and-adrs",
+        "hook_stripped": false
+      },
+      {
+        "skill": "doubt-driven-development",
+        "from": "skills/doubt-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "frontend-ui-engineering",
+        "from": "skills/frontend-ui-engineering",
+        "hook_stripped": false
+      },
+      {
+        "skill": "git-workflow-and-versioning",
+        "from": "skills/git-workflow-and-versioning",
+        "hook_stripped": false
+      },
+      {
+        "skill": "idea-refine",
+        "from": "skills/idea-refine",
+        "hook_stripped": false
+      },
+      {
+        "skill": "incremental-implementation",
+        "from": "skills/incremental-implementation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "interview-me",
+        "from": "skills/interview-me",
+        "hook_stripped": false
+      },
+      {
+        "skill": "observability-and-instrumentation",
+        "from": "skills/observability-and-instrumentation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "performance-optimization",
+        "from": "skills/performance-optimization",
+        "hook_stripped": false
+      },
+      {
+        "skill": "planning-and-task-breakdown",
+        "from": "skills/planning-and-task-breakdown",
+        "hook_stripped": false
+      },
+      {
+        "skill": "security-and-hardening",
+        "from": "skills/security-and-hardening",
+        "hook_stripped": false
+      },
+      {
+        "skill": "shipping-and-launch",
+        "from": "skills/shipping-and-launch",
+        "hook_stripped": false
+      },
+      {
+        "skill": "source-driven-development",
+        "from": "skills/source-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "spec-driven-development",
+        "from": "skills/spec-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "addy-test-driven-development",
+        "from": "skills/test-driven-development",
+        "hook_stripped": false
+      },
+      {
+        "skill": "using-agent-skills",
+        "from": "skills/using-agent-skills",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "repo": "Leonxlnx/taste-skill",
+    "commit": "f6b76575f949707b4e3c37cd86cb44b0b98643e8",
+    "skills": [
+      {
+        "skill": "taste-skill",
+        "from": "skills/taste-skill",
+        "hook_stripped": true
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "repo": "tt-a1i/archify",
+    "commit": "11b0d6031853bdae89eed57e7979aabbf0034097",
+    "skills": [
+      {
+        "skill": "archify",
+        "from": "archify",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "repo": "mvanhorn/last30days-skill",
+    "commit": "de9bf7232b37a18df034b1165a45a41daadef7e2",
+    "skills": [
+      {
+        "skill": "last30days",
+        "from": "skills/last30days",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "repo": "blader/humanizer",
+    "commit": "0ef9fe5bc3572734fd3ae6c448fe00a30cd5dcf0",
+    "skills": [
+      {
+        "skill": "humanizer",
+        "from": ".",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "repo": "ayghri/i-have-adhd",
+    "commit": "1ecea1993b7fce257ffbd686c070948b5e07eda6",
+    "skills": [
+      {
+        "skill": "i-have-adhd",
+        "from": "skills/i-have-adhd",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "repo": "coreyhaines31/marketingskills",
+    "commit": "96798cf38736ecdba015a1d2b0521b0c8f8f41dd",
+    "skills": [
+      {
+        "skill": "ab-testing",
+        "from": "skills/ab-testing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ad-creative",
+        "from": "skills/ad-creative",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ads",
+        "from": "skills/ads",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ai-seo",
+        "from": "skills/ai-seo",
+        "hook_stripped": false
+      },
+      {
+        "skill": "analytics",
+        "from": "skills/analytics",
+        "hook_stripped": false
+      },
+      {
+        "skill": "aso",
+        "from": "skills/aso",
+        "hook_stripped": false
+      },
+      {
+        "skill": "attribution",
+        "from": "skills/attribution",
+        "hook_stripped": false
+      },
+      {
+        "skill": "churn-prevention",
+        "from": "skills/churn-prevention",
+        "hook_stripped": false
+      },
+      {
+        "skill": "co-marketing",
+        "from": "skills/co-marketing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cold-email",
+        "from": "skills/cold-email",
+        "hook_stripped": false
+      },
+      {
+        "skill": "community-marketing",
+        "from": "skills/community-marketing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "competitor-profiling",
+        "from": "skills/competitor-profiling",
+        "hook_stripped": false
+      },
+      {
+        "skill": "competitors",
+        "from": "skills/competitors",
+        "hook_stripped": false
+      },
+      {
+        "skill": "content-strategy",
+        "from": "skills/content-strategy",
+        "hook_stripped": false
+      },
+      {
+        "skill": "conversion-tracking",
+        "from": "skills/conversion-tracking",
+        "hook_stripped": false
+      },
+      {
+        "skill": "copy-editing",
+        "from": "skills/copy-editing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "copywriting",
+        "from": "skills/copywriting",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cro",
+        "from": "skills/cro",
+        "hook_stripped": false
+      },
+      {
+        "skill": "customer-research",
+        "from": "skills/customer-research",
+        "hook_stripped": false
+      },
+      {
+        "skill": "directory-submissions",
+        "from": "skills/directory-submissions",
+        "hook_stripped": false
+      },
+      {
+        "skill": "emails",
+        "from": "skills/emails",
+        "hook_stripped": false
+      },
+      {
+        "skill": "events",
+        "from": "skills/events",
+        "hook_stripped": false
+      },
+      {
+        "skill": "free-tools",
+        "from": "skills/free-tools",
+        "hook_stripped": false
+      },
+      {
+        "skill": "image",
+        "from": "skills/image",
+        "hook_stripped": false
+      },
+      {
+        "skill": "influencer-marketing",
+        "from": "skills/influencer-marketing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "launch",
+        "from": "skills/launch",
+        "hook_stripped": false
+      },
+      {
+        "skill": "lead-magnets",
+        "from": "skills/lead-magnets",
+        "hook_stripped": false
+      },
+      {
+        "skill": "link-building",
+        "from": "skills/link-building",
+        "hook_stripped": false
+      },
+      {
+        "skill": "marketing-council",
+        "from": "skills/marketing-council",
+        "hook_stripped": false
+      },
+      {
+        "skill": "marketing-ideas",
+        "from": "skills/marketing-ideas",
+        "hook_stripped": false
+      },
+      {
+        "skill": "marketing-loops",
+        "from": "skills/marketing-loops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "marketing-plan",
+        "from": "skills/marketing-plan",
+        "hook_stripped": false
+      },
+      {
+        "skill": "marketing-psychology",
+        "from": "skills/marketing-psychology",
+        "hook_stripped": false
+      },
+      {
+        "skill": "offers",
+        "from": "skills/offers",
+        "hook_stripped": false
+      },
+      {
+        "skill": "onboarding",
+        "from": "skills/onboarding",
+        "hook_stripped": false
+      },
+      {
+        "skill": "paywalls",
+        "from": "skills/paywalls",
+        "hook_stripped": false
+      },
+      {
+        "skill": "popups",
+        "from": "skills/popups",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pricing",
+        "from": "skills/pricing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "product-marketing",
+        "from": "skills/product-marketing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "programmatic-seo",
+        "from": "skills/programmatic-seo",
+        "hook_stripped": false
+      },
+      {
+        "skill": "prospecting",
+        "from": "skills/prospecting",
+        "hook_stripped": false
+      },
+      {
+        "skill": "public-relations",
+        "from": "skills/public-relations",
+        "hook_stripped": false
+      },
+      {
+        "skill": "referrals",
+        "from": "skills/referrals",
+        "hook_stripped": false
+      },
+      {
+        "skill": "reverse-engineer-marketing",
+        "from": "skills/reverse-engineer-marketing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "revops",
+        "from": "skills/revops",
+        "hook_stripped": false
+      },
+      {
+        "skill": "sales-enablement",
+        "from": "skills/sales-enablement",
+        "hook_stripped": false
+      },
+      {
+        "skill": "schema",
+        "from": "skills/schema",
+        "hook_stripped": false
+      },
+      {
+        "skill": "seo-audit",
+        "from": "skills/seo-audit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "signup",
+        "from": "skills/signup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "site-architecture",
+        "from": "skills/site-architecture",
+        "hook_stripped": false
+      },
+      {
+        "skill": "sms",
+        "from": "skills/sms",
+        "hook_stripped": false
+      },
+      {
+        "skill": "social",
+        "from": "skills/social",
+        "hook_stripped": false
+      },
+      {
+        "skill": "video",
+        "from": "skills/video",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "commit": "2d2065fb4520fa3f3f2bcf61cff26ec8b7eba4b5",
+    "skills": [
+      {
+        "skill": "13c-metabolic-flux",
+        "from": "skills/13c-metabolic-flux",
+        "hook_stripped": false
+      },
+      {
+        "skill": "adaptyv",
+        "from": "skills/adaptyv",
+        "hook_stripped": false
+      },
+      {
+        "skill": "aeon",
+        "from": "skills/aeon",
+        "hook_stripped": false
+      },
+      {
+        "skill": "alphagenome",
+        "from": "skills/alphagenome",
+        "hook_stripped": false
+      },
+      {
+        "skill": "analytical-method-validation",
+        "from": "skills/analytical-method-validation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "anndata",
+        "from": "skills/anndata",
+        "hook_stripped": false
+      },
+      {
+        "skill": "arbor",
+        "from": "skills/arbor",
+        "hook_stripped": false
+      },
+      {
+        "skill": "arboreto",
+        "from": "skills/arboreto",
+        "hook_stripped": false
+      },
+      {
+        "skill": "astropy",
+        "from": "skills/astropy",
+        "hook_stripped": false
+      },
+      {
+        "skill": "autoskill",
+        "from": "skills/autoskill",
+        "hook_stripped": false
+      },
+      {
+        "skill": "benchling-integration",
+        "from": "skills/benchling-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "bgpt-paper-search",
+        "from": "skills/bgpt-paper-search",
+        "hook_stripped": false
+      },
+      {
+        "skill": "bids",
+        "from": "skills/bids",
+        "hook_stripped": false
+      },
+      {
+        "skill": "biopython",
+        "from": "skills/biopython",
+        "hook_stripped": false
+      },
+      {
+        "skill": "bioservices",
+        "from": "skills/bioservices",
+        "hook_stripped": false
+      },
+      {
+        "skill": "bulk-rnaseq",
+        "from": "skills/bulk-rnaseq",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cantera",
+        "from": "skills/cantera",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cellprofiler",
+        "from": "skills/cellprofiler",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cellxgene-census",
+        "from": "skills/cellxgene-census",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cirq",
+        "from": "skills/cirq",
+        "hook_stripped": false
+      },
+      {
+        "skill": "citation-management",
+        "from": "skills/citation-management",
+        "hook_stripped": false
+      },
+      {
+        "skill": "clinical-decision-support",
+        "from": "skills/clinical-decision-support",
+        "hook_stripped": false
+      },
+      {
+        "skill": "clinical-reports",
+        "from": "skills/clinical-reports",
+        "hook_stripped": false
+      },
+      {
+        "skill": "cobrapy",
+        "from": "skills/cobrapy",
+        "hook_stripped": false
+      },
+      {
+        "skill": "consciousness-council",
+        "from": "skills/consciousness-council",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dask",
+        "from": "skills/dask",
+        "hook_stripped": false
+      },
+      {
+        "skill": "database-lookup",
+        "from": "skills/database-lookup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "datalad",
+        "from": "skills/datalad",
+        "hook_stripped": false
+      },
+      {
+        "skill": "datamol",
+        "from": "skills/datamol",
+        "hook_stripped": false
+      },
+      {
+        "skill": "deepchem",
+        "from": "skills/deepchem",
+        "hook_stripped": false
+      },
+      {
+        "skill": "deepspot-m",
+        "from": "skills/deepspot-m",
+        "hook_stripped": false
+      },
+      {
+        "skill": "deeptools",
+        "from": "skills/deeptools",
+        "hook_stripped": false
+      },
+      {
+        "skill": "depmap",
+        "from": "skills/depmap",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dhdna-profiler",
+        "from": "skills/dhdna-profiler",
+        "hook_stripped": false
+      },
+      {
+        "skill": "diffdock",
+        "from": "skills/diffdock",
+        "hook_stripped": false
+      },
+      {
+        "skill": "dnanexus-integration",
+        "from": "skills/dnanexus-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "esm",
+        "from": "skills/esm",
+        "hook_stripped": false
+      },
+      {
+        "skill": "etetoolkit",
+        "from": "skills/etetoolkit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "science-exa-search",
+        "from": "skills/exa-search",
+        "hook_stripped": false
+      },
+      {
+        "skill": "experimental-design",
+        "from": "skills/experimental-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "exploratory-data-analysis",
+        "from": "skills/exploratory-data-analysis",
+        "hook_stripped": false
+      },
+      {
+        "skill": "fictiv",
+        "from": "skills/fictiv",
+        "hook_stripped": false
+      },
+      {
+        "skill": "flowio",
+        "from": "skills/flowio",
+        "hook_stripped": false
+      },
+      {
+        "skill": "flowkit",
+        "from": "skills/flowkit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "fluidsim",
+        "from": "skills/fluidsim",
+        "hook_stripped": false
+      },
+      {
+        "skill": "folklore-variant-evidence",
+        "from": "skills/folklore-variant-evidence",
+        "hook_stripped": false
+      },
+      {
+        "skill": "generate-image",
+        "from": "skills/generate-image",
+        "hook_stripped": false
+      },
+      {
+        "skill": "geniml",
+        "from": "skills/geniml",
+        "hook_stripped": false
+      },
+      {
+        "skill": "genomic-coordinates",
+        "from": "skills/genomic-coordinates",
+        "hook_stripped": false
+      },
+      {
+        "skill": "genomic-intelligence",
+        "from": "skills/genomic-intelligence",
+        "hook_stripped": false
+      },
+      {
+        "skill": "geomaster",
+        "from": "skills/geomaster",
+        "hook_stripped": false
+      },
+      {
+        "skill": "geopandas",
+        "from": "skills/geopandas",
+        "hook_stripped": false
+      },
+      {
+        "skill": "get-available-resources",
+        "from": "skills/get-available-resources",
+        "hook_stripped": false
+      },
+      {
+        "skill": "gget",
+        "from": "skills/gget",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ginkgo-cloud-lab",
+        "from": "skills/ginkgo-cloud-lab",
+        "hook_stripped": false
+      },
+      {
+        "skill": "glycoengineering",
+        "from": "skills/glycoengineering",
+        "hook_stripped": false
+      },
+      {
+        "skill": "gtars",
+        "from": "skills/gtars",
+        "hook_stripped": false
+      },
+      {
+        "skill": "histolab",
+        "from": "skills/histolab",
+        "hook_stripped": false
+      },
+      {
+        "skill": "hugging-science",
+        "from": "skills/hugging-science",
+        "hook_stripped": false
+      },
+      {
+        "skill": "hypogenic",
+        "from": "skills/hypogenic",
+        "hook_stripped": false
+      },
+      {
+        "skill": "hypothesis-generation",
+        "from": "skills/hypothesis-generation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "imaging-data-commons",
+        "from": "skills/imaging-data-commons",
+        "hook_stripped": false
+      },
+      {
+        "skill": "infographics",
+        "from": "skills/infographics",
+        "hook_stripped": false
+      },
+      {
+        "skill": "iso-standards-readiness",
+        "from": "skills/iso-standards-readiness",
+        "hook_stripped": false
+      },
+      {
+        "skill": "lab-hardware-cad",
+        "from": "skills/lab-hardware-cad",
+        "hook_stripped": false
+      },
+      {
+        "skill": "labarchive-integration",
+        "from": "skills/labarchive-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "lamindb",
+        "from": "skills/lamindb",
+        "hook_stripped": false
+      },
+      {
+        "skill": "latchbio-integration",
+        "from": "skills/latchbio-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "latex-posters",
+        "from": "skills/latex-posters",
+        "hook_stripped": false
+      },
+      {
+        "skill": "liteparse",
+        "from": "skills/liteparse",
+        "hook_stripped": false
+      },
+      {
+        "skill": "literature-review",
+        "from": "skills/literature-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mageck",
+        "from": "skills/mageck",
+        "hook_stripped": false
+      },
+      {
+        "skill": "marine-carbonate-chemistry",
+        "from": "skills/marine-carbonate-chemistry",
+        "hook_stripped": false
+      },
+      {
+        "skill": "markdown-mermaid-writing",
+        "from": "skills/markdown-mermaid-writing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "market-research-reports",
+        "from": "skills/market-research-reports",
+        "hook_stripped": false
+      },
+      {
+        "skill": "markitdown",
+        "from": "skills/markitdown",
+        "hook_stripped": false
+      },
+      {
+        "skill": "matchms",
+        "from": "skills/matchms",
+        "hook_stripped": false
+      },
+      {
+        "skill": "matlab",
+        "from": "skills/matlab",
+        "hook_stripped": false
+      },
+      {
+        "skill": "matplotlib",
+        "from": "skills/matplotlib",
+        "hook_stripped": false
+      },
+      {
+        "skill": "medchem",
+        "from": "skills/medchem",
+        "hook_stripped": false
+      },
+      {
+        "skill": "modal",
+        "from": "skills/modal",
+        "hook_stripped": false
+      },
+      {
+        "skill": "molecular-dynamics",
+        "from": "skills/molecular-dynamics",
+        "hook_stripped": false
+      },
+      {
+        "skill": "molfeat",
+        "from": "skills/molfeat",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ncats-arax",
+        "from": "skills/ncats-arax",
+        "hook_stripped": false
+      },
+      {
+        "skill": "networkx",
+        "from": "skills/networkx",
+        "hook_stripped": false
+      },
+      {
+        "skill": "neurokit2",
+        "from": "skills/neurokit2",
+        "hook_stripped": false
+      },
+      {
+        "skill": "neuropixels-analysis",
+        "from": "skills/neuropixels-analysis",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nextflow",
+        "from": "skills/nextflow",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nmrglue",
+        "from": "skills/nmrglue",
+        "hook_stripped": false
+      },
+      {
+        "skill": "nwb-conversion",
+        "from": "skills/nwb-conversion",
+        "hook_stripped": false
+      },
+      {
+        "skill": "omero-integration",
+        "from": "skills/omero-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "onekgpd",
+        "from": "skills/onekgpd",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ontology-term-resolution",
+        "from": "skills/ontology-term-resolution",
+        "hook_stripped": false
+      },
+      {
+        "skill": "open-notebook",
+        "from": "skills/open-notebook",
+        "hook_stripped": false
+      },
+      {
+        "skill": "openpiv",
+        "from": "skills/openpiv",
+        "hook_stripped": false
+      },
+      {
+        "skill": "opentrons-integration",
+        "from": "skills/opentrons-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "optimize-for-gpu",
+        "from": "skills/optimize-for-gpu",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pacsomatic",
+        "from": "skills/pacsomatic",
+        "hook_stripped": false
+      },
+      {
+        "skill": "paper-lookup",
+        "from": "skills/paper-lookup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "paperclip",
+        "from": "skills/paperclip",
+        "hook_stripped": false
+      },
+      {
+        "skill": "paperzilla",
+        "from": "skills/paperzilla",
+        "hook_stripped": false
+      },
+      {
+        "skill": "parallel-web",
+        "from": "skills/parallel-web",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pathml",
+        "from": "skills/pathml",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pathogen-variant-surveillance",
+        "from": "skills/pathogen-variant-surveillance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pathway-enrichment",
+        "from": "skills/pathway-enrichment",
+        "hook_stripped": false
+      },
+      {
+        "skill": "peer-review",
+        "from": "skills/peer-review",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pennylane",
+        "from": "skills/pennylane",
+        "hook_stripped": false
+      },
+      {
+        "skill": "phylogenetics",
+        "from": "skills/phylogenetics",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pi-agent",
+        "from": "skills/pi-agent",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pkpd-modeling",
+        "from": "skills/pkpd-modeling",
+        "hook_stripped": false
+      },
+      {
+        "skill": "polars",
+        "from": "skills/polars",
+        "hook_stripped": false
+      },
+      {
+        "skill": "polars-bio",
+        "from": "skills/polars-bio",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pptx-posters",
+        "from": "skills/pptx-posters",
+        "hook_stripped": false
+      },
+      {
+        "skill": "primekg",
+        "from": "skills/primekg",
+        "hook_stripped": false
+      },
+      {
+        "skill": "primer-design",
+        "from": "skills/primer-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "protocolsio-integration",
+        "from": "skills/protocolsio-integration",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pufferlib",
+        "from": "skills/pufferlib",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pybamm",
+        "from": "skills/pybamm",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pycalphad",
+        "from": "skills/pycalphad",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pydeseq2",
+        "from": "skills/pydeseq2",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pydicom",
+        "from": "skills/pydicom",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pyhealth",
+        "from": "skills/pyhealth",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pylabrobot",
+        "from": "skills/pylabrobot",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pymatgen",
+        "from": "skills/pymatgen",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pymc",
+        "from": "skills/pymc",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pymoo",
+        "from": "skills/pymoo",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pyopenms",
+        "from": "skills/pyopenms",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pysam",
+        "from": "skills/pysam",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pytdc",
+        "from": "skills/pytdc",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pytorch-lightning",
+        "from": "skills/pytorch-lightning",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pyzotero",
+        "from": "skills/pyzotero",
+        "hook_stripped": false
+      },
+      {
+        "skill": "qiime2-amplicon",
+        "from": "skills/qiime2-amplicon",
+        "hook_stripped": false
+      },
+      {
+        "skill": "qiskit",
+        "from": "skills/qiskit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "qutip",
+        "from": "skills/qutip",
+        "hook_stripped": false
+      },
+      {
+        "skill": "rdkit",
+        "from": "skills/rdkit",
+        "hook_stripped": false
+      },
+      {
+        "skill": "relion",
+        "from": "skills/relion",
+        "hook_stripped": false
+      },
+      {
+        "skill": "relsa-severity-assessment",
+        "from": "skills/relsa-severity-assessment",
+        "hook_stripped": false
+      },
+      {
+        "skill": "research-grants",
+        "from": "skills/research-grants",
+        "hook_stripped": false
+      },
+      {
+        "skill": "research-lookup",
+        "from": "skills/research-lookup",
+        "hook_stripped": false
+      },
+      {
+        "skill": "rowan",
+        "from": "skills/rowan",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scanpy",
+        "from": "skills/scanpy",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scholar-evaluation",
+        "from": "skills/scholar-evaluation",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-brainstorming",
+        "from": "skills/scientific-brainstorming",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-critical-thinking",
+        "from": "skills/scientific-critical-thinking",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-schematics",
+        "from": "skills/scientific-schematics",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-slides",
+        "from": "skills/scientific-slides",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-visualization",
+        "from": "skills/scientific-visualization",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scientific-writing",
+        "from": "skills/scientific-writing",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scikit-bio",
+        "from": "skills/scikit-bio",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scikit-learn",
+        "from": "skills/scikit-learn",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scikit-survival",
+        "from": "skills/scikit-survival",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scvelo",
+        "from": "skills/scvelo",
+        "hook_stripped": false
+      },
+      {
+        "skill": "scvi-tools",
+        "from": "skills/scvi-tools",
+        "hook_stripped": false
+      },
+      {
+        "skill": "seaborn",
+        "from": "skills/seaborn",
+        "hook_stripped": false
+      },
+      {
+        "skill": "shap",
+        "from": "skills/shap",
+        "hook_stripped": false
+      },
+      {
+        "skill": "simpy",
+        "from": "skills/simpy",
+        "hook_stripped": false
+      },
+      {
+        "skill": "stable-baselines3",
+        "from": "skills/stable-baselines3",
+        "hook_stripped": false
+      },
+      {
+        "skill": "statistical-analysis",
+        "from": "skills/statistical-analysis",
+        "hook_stripped": false
+      },
+      {
+        "skill": "statistical-power",
+        "from": "skills/statistical-power",
+        "hook_stripped": false
+      },
+      {
+        "skill": "statsmodels",
+        "from": "skills/statsmodels",
+        "hook_stripped": false
+      },
+      {
+        "skill": "sympy",
+        "from": "skills/sympy",
+        "hook_stripped": false
+      },
+      {
+        "skill": "tamarind",
+        "from": "skills/tamarind",
+        "hook_stripped": false
+      },
+      {
+        "skill": "tellurium",
+        "from": "skills/tellurium",
+        "hook_stripped": false
+      },
+      {
+        "skill": "tiledbvcf",
+        "from": "skills/tiledbvcf",
+        "hook_stripped": false
+      },
+      {
+        "skill": "timesfm-forecasting",
+        "from": "skills/timesfm-forecasting",
+        "hook_stripped": false
+      },
+      {
+        "skill": "torch-geometric",
+        "from": "skills/torch-geometric",
+        "hook_stripped": false
+      },
+      {
+        "skill": "torchdrug",
+        "from": "skills/torchdrug",
+        "hook_stripped": false
+      },
+      {
+        "skill": "transformers",
+        "from": "skills/transformers",
+        "hook_stripped": false
+      },
+      {
+        "skill": "treatment-plans",
+        "from": "skills/treatment-plans",
+        "hook_stripped": false
+      },
+      {
+        "skill": "umap-learn",
+        "from": "skills/umap-learn",
+        "hook_stripped": false
+      },
+      {
+        "skill": "uncertainty-and-units",
+        "from": "skills/uncertainty-and-units",
+        "hook_stripped": false
+      },
+      {
+        "skill": "usfiscaldata",
+        "from": "skills/usfiscaldata",
+        "hook_stripped": false
+      },
+      {
+        "skill": "vaex",
+        "from": "skills/vaex",
+        "hook_stripped": false
+      },
+      {
+        "skill": "venue-templates",
+        "from": "skills/venue-templates",
+        "hook_stripped": false
+      },
+      {
+        "skill": "waypoint-bio",
+        "from": "skills/waypoint-bio",
+        "hook_stripped": false
+      },
+      {
+        "skill": "what-if-oracle",
+        "from": "skills/what-if-oracle",
+        "hook_stripped": false
+      },
+      {
+        "skill": "zarr-python",
+        "from": "skills/zarr-python",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "repo": "Imbad0202/academic-research-skills",
+    "commit": "6d9388674de1ad0437ad95db3d52f92b92204d84",
+    "skills": [
+      {
+        "skill": "academic-paper",
+        "from": "academic-paper",
+        "hook_stripped": false
+      },
+      {
+        "skill": "academic-paper-reviewer",
+        "from": "academic-paper-reviewer",
+        "hook_stripped": false
+      },
+      {
+        "skill": "academic-pipeline",
+        "from": "academic-pipeline",
+        "hook_stripped": false
+      },
+      {
+        "skill": "academic-deep-research",
+        "from": "deep-research",
+        "hook_stripped": false
+      },
+      {
+        "skill": "sr-screener",
+        "from": "sr-screener",
+        "hook_stripped": false
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "repo": "emilkowalski/skills",
+    "commit": "715c1807e08c497cfd1dc4feb450a2a3300ef2a9",
+    "skills": [
+      {
+        "skill": "animate",
+        "from": "skills/animate",
+        "hook_stripped": false
+      },
+      {
+        "skill": "animate-expo",
+        "from": "skills/animate-expo",
+        "hook_stripped": false
+      },
+      {
+        "skill": "animation-performance",
+        "from": "skills/animation-performance",
+        "hook_stripped": false
+      },
+      {
+        "skill": "animation-vocabulary",
+        "from": "skills/animation-vocabulary",
+        "hook_stripped": false
+      },
+      {
+        "skill": "apple-design",
+        "from": "skills/apple-design",
+        "hook_stripped": false
+      },
+      {
+        "skill": "ask-sonner",
+        "from": "skills/ask-sonner",
+        "hook_stripped": false
+      },
+      {
+        "skill": "break-ui",
+        "from": "skills/break-ui",
+        "hook_stripped": false
+      },
+      {
+        "skill": "choreograph",
+        "from": "skills/choreograph",
+        "hook_stripped": false
+      },
+      {
+        "skill": "emil-design-eng",
+        "from": "skills/emil-design-eng",
+        "hook_stripped": false
+      },
+      {
+        "skill": "find-animation-opportunities",
+        "from": "skills/find-animation-opportunities",
+        "hook_stripped": false
+      },
+      {
+        "skill": "gestures",
+        "from": "skills/gestures",
+        "hook_stripped": false
+      },
+      {
+        "skill": "improve-animations",
+        "from": "skills/improve-animations",
+        "hook_stripped": false
+      },
+      {
+        "skill": "mobile-native",
+        "from": "skills/mobile-native",
+        "hook_stripped": false
+      },
+      {
+        "skill": "pick-ui-library",
+        "from": "skills/pick-ui-library",
+        "hook_stripped": false
+      },
+      {
+        "skill": "emil-prototype",
+        "from": "skills/prototype",
+        "hook_stripped": false
+      },
+      {
+        "skill": "remove-animations",
+        "from": "skills/remove-animations",
+        "hook_stripped": false
+      },
+      {
+        "skill": "review-animations",
+        "from": "skills/review-animations",
+        "hook_stripped": false
+      },
+      {
+        "skill": "write-swift",
+        "from": "skills/write-swift",
+        "hook_stripped": false
+      }
+    ]
+  }
+]
